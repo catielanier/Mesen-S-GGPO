@@ -185,3 +185,5 @@ packages/*
 !Libretro/hakchi/bin
 
 TestHelper/*
+
+.idea
